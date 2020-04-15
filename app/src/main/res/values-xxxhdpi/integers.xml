@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="tv_padding_left_int">15</integer>
+    <integer name="tv_padding_right_int">0</integer>
+
+    <integer name="tv_padding_top_int">15</integer>
+    <integer name="tv_padding_bottom_int">15</integer>
+    <integer name="tv2_padding_left_int">5</integer>
+    <integer name="tv2_padding_right_int">0</integer>
+
+    <integer name="tv2_padding_top_int">15</integer>
+    <integer name="tv2_padding_bottom_int">15</integer>
+</resources>

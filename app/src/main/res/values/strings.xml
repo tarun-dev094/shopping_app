@@ -1,0 +1,837 @@
+<resources>
+    <string name="app_name">Local Mascot Apps</string>
+    <string name="loadingMessage">Welcome To Local Mascot Apps</string>
+
+    <string name="chosseTxt">BusinessApp</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="name">Local \nMascot\n Apps</string>
+    <string name="mainpage_name"><b>Welcome \nTo \nLocal Mascot Apps</b></string>
+    <string name="forgotTxt">Enter your email below \nand  you\'ll get a new Password in you inbox.</string>
+    <string-array name="student">
+        <item>Home</item>
+        <item>First</item>
+        <item>Second</item>
+    </string-array>
+    <string-array name="coach">
+        <item>coach</item>
+        <item>coach one</item>
+        <item>coach two</item>
+    </string-array>
+    <string-array name="common_menu">
+        <item id="home">Home</item>
+        <item id="profile">Profile</item>
+        <item>Change Password</item>
+
+        <item id="viewbusiness">View Business</item>
+        <item id="viewcategory">View Category</item>
+        <item id="Communities">Communities</item>
+        <item>Logout</item>
+    </string-array>
+    <string name="worningmsg">Error! Here is what did you wrong..</string>
+    <string name="appsplashline">Local Mascot Apps</string>
+    <string name="nodata">There are currently no businesses in this category but we are working hard to add new business, if you have a favorite business that would fit great in this category please let us know..</string>
+    <string name="facebook_app_id">521217818002044</string>
+    <string name="register">Dont\'t have an account?<b>Tab here to signup</b></string>
+    <string name="login_btn">Login</string>
+    <string name="forget_btn">Forget  Password?</string>
+    <string name="forget_hint">Enter Your Email</string>
+    <string name="forget_heading">Forgot Password</string>
+    <string name="forget_send_email_btn">Send Email</string>
+    <string name="login_usernam_hint">Email</string>
+    <string name="login_pass_hint">Password</string>
+    <string name="footer_busniess">Business</string>
+    <string name="footer_school">School</string>
+    <string name="footer_ExclusiveBuisness">Exclusive Business</string>
+    <string name="footer_fundraising">Fundraising</string>
+    <string name="footer_Recommend">Recommend A Business</string>
+    <string name="footer_NewsOfer">News &amp; Offer</string>
+    <string name="footer_contactus">Contact Us</string>
+    <string name="Main_buy_membership">Buy a \nMembership</string>
+    <string name="dummy_txt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="signup_fname">Firstname</string>
+    <string name="signup_lname">Lastname</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_conf_password">Confirm Password</string>
+    <string name="signup_phone_no">Phone</string>
+    <string name="signup_bithday">Set Birthday</string>
+    <string name="signup_s_uid">Student UID</string>
+    <string name="signup_btn">Signup</string>
+    <string name="signup_login_txt">Already have an account?<b>Tab here to login</b></string>
+    <string name="membership_heading">Buy a Membership</string>
+    <string name="membership_profile">Member Profile</string>
+    <string name="membership_name">Name</string>
+    <string name="membership_fname">Firstname</string>
+    <string name="membership_lname">Lastname</string>
+    <string name="membership_email">Email</string>
+    <string name="membership_pass">Password</string>
+    <string name="membership_conf_pass">Confirm Password</string>
+    <string name="membership_phone">Phone</string>
+    <string name="membership_bday">Set Birthday</string>
+    <string name="membership_aniversary">Aniversary Date</string>
+    <string name="membership_s_uid">Student UID</string>
+    <string name="membership_address">Address</string>
+    <string name="membership_state">State</string>
+    <string name="membership_city">City</string>
+    <string name="state_prompt">Choose a State</string>
+    <string name="city_prompt">Choose a country</string>
+    <string name="community_prompt">Choose a Community</string>
+    <string name="membership_community">Category</string>
+    <string name="membership_zip">Zip</string>
+    <string name="membership_submit_btn">Submit</string>
+    <string name="membership_edit_btn">Edit Profile</string>
+    <string name="membership_update_btn">Update Profile</string>
+    <string name="business_category">Business Categories</string>
+    <string name="membership_school">School</string>
+    <string-array name="state">
+        <item>State</item>
+        <item>Haryana</item>
+        <item>Punjab</item>
+        <item>Chandigarh</item>
+    </string-array>
+    <string-array name="city">
+        <item>City</item>
+        <item>Shahbad</item>
+        <item>Ambala</item>
+        <item>Kurkshetra</item>
+        <item>Mohali</item>
+        <item>panchkula</item>
+    </string-array>
+
+    <string name="search_hint">Search</string>
+    <string name="search_hint_school">Search School</string>
+    <string name="search_hint_busines">Search Business</string>
+    <string name="business_category_btn">View Business Categories</string>
+    <string name="dummyTxt_fund">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,</string>
+
+    <string name="recommend_heading">Recommend a Business </string>
+    <string name="recommend_name">Business Name</string>
+    <string name="recommend_addres">Business Address</string>
+    <string name="recommend_contact_person">Business Contact Person</string>
+    <string name="recommend_phone">Business Phone number</string>
+    <string name="recommend_website">Business Website</string>
+    <string name="recommend_send_btn">Send Recommendation</string>
+
+    <string name="changePass_heading">Change Password</string>
+    <string name="changePass_email">Email</string>
+    <string name="changePass_oldppassword">Old Password</string>
+    <string name="changePass_newpassword">New Password</string>
+    <string name="changePass_confirm_new_password">Confirm New Password</string>
+    <string name="changePass_new_password_btn">Change Password</string>
+
+    <string name="footer_txt">Load More</string>
+    <string name="logout_dialog_metter">Are You Sure You Want To Logout ?</string>
+    <string name="exitInfo">Are You Sure You Want To Exist ?</string>
+
+    <string name="fav_dialog_metter">Are You Sure You Want To Remove This Coupon In Your Favourite List</string>
+
+    <string name="dialog_metter">In order to enjoy the benefits of this app, first log in as a member or purchase a membership.</string>
+    <string name="cancel">Cancel</string>
+    <string name="continuee">Continue</string>
+    <string name="ok">OK</string>
+
+    <string name="Dashboard_Categories">Categories: </string>
+    <string name="Dashboard_Community">Communities: </string>
+
+
+    <string name="communities">Communities</string>
+    <string name="categories">Categories</string>
+    <string name="discount_type">Discount Type</string>
+    <string name="text_club">Text Club</string>
+    <string name="discount">Discount</string>
+    <string name="description">Description</string>
+    <string name="coupon_code">Coupon Code</string>
+
+    <!--<-&#45;&#45;&#45;&#45; School Description Strings-&#45;&#45;&#45;&#45;&ndash;&gt;    -->
+
+    <string name="Contact_Person_Name">Contact Person Name :</string>
+    <string name="Address">Address :</string>
+    <string name="City">City :</string>
+    <string name="State">State :</string>
+    <string name="Schools_Tax_ID">Schools Tax ID :</string>
+    <string name="School_Colors">School Colors :</string>
+
+    <string name="loding">Loading..</string>
+    <string name="loging">Loging..</string>
+    <string name="wait">Please Wait..</string>
+
+    <string name="latestOffer">Latest Offer</string>
+    <string name="latestNews">Latest News</string>
+    <string-array name="heading">
+        <item>heading 1</item>
+        <item>heading 2</item>
+        <item>heading 3</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>heading is descrption to all the lipseum element</item>
+        <item>heading is descrption to all the lipseum element</item>
+        <item>heading is descrption to all the lipseum element</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>1 jan</item>
+        <item>2 march</item>
+        <item>22 Oct</item>
+    </string-array>
+    <string-array name="comments">
+        <item>20 comments</item>
+        <item>20 comments</item>
+        <item>20 comments</item>
+    </string-array>
+    <string-array name="old_price">
+        <item>223</item>
+        <item>44 </item>
+        <item>98 </item>
+    </string-array>
+    <string-array name="new_price">
+        <item>234 </item>
+        <item>43 </item>
+        <item>78 </item>
+    </string-array>
+
+    <string name="us">\u0024</string>
+    <string name="json1">{
+    "business":
+    [     {
+    "id":"235",
+    "name":"sunny",
+    "sd":"'sd colege'"
+    },
+    {
+    "id":"332",
+    "name":"param",
+    "sd":"'py univ'"
+    }
+    ]
+    }
+    </string>
+    <string name="json">{
+      "membership":
+        [
+        {
+                "name":"panchkula",
+                 "package":    {
+                "gold":"'Gold pack (35)'",
+                "silver":"'Silver pack (22)'",
+                "platinum":"'Platinum Pack (20)'"
+                         }
+
+        },
+        {
+                "name":"chandigarh",
+                 "package":    {
+                "gold":"'Gold pack (55)'",
+                "silver":"'Silver pack (32)'"
+                         }
+
+        },
+        {
+                "name":"mohali",
+                 "package":    {
+                "gold":"'Gold pack (65)'",
+                "silver":"'Silver pack (42)'"
+                         }
+
+        },
+        {
+                "name":"ambala",
+                 "package":    {
+                "gold":"75",
+                "silver":"55"
+                         }
+
+        },
+        {
+                "name":"kurkshetra",
+                 "package":    {
+                "gold":"33",
+                "silver":"32"
+                         }
+
+        },
+        {
+                "name":"punjab",
+                 "package":    {
+                "gold":"11",
+                "silver":"7"
+                         }
+
+        },
+        {
+                "name":"bombay",
+                 "package":    {
+                "gold":"35",
+                "silver":"45"
+                         }
+
+        },
+        {
+                "name":"kolkata",
+                 "package":    {
+                "gold":"10",
+                "silver":"8"
+                         }
+
+        },
+        {
+                "name":"bombay",
+                 "package":    {
+                "gold":"21",
+                "silver":"18"
+                         }
+
+        }
+
+        ]
+
+}
+
+
+
+ </string>
+
+    <string name="StateJson">
+[{
+	"name": \"ALABAMA\",
+	"code": \"AL\",
+	"url": \"al\",
+        "token": \"\",
+        "status": \"INACTIVE\"
+}, {
+	"name": \"ALASKA\",
+	"code": \"AK\",
+	"url": \"ak\",
+                "token": \"\",
+
+                "status": \"INACTIVE\"
+
+}, {
+	"name": \"ARIZONA\",
+	"code": \"AZ\",
+	"url": \"az\",
+                "token": \"\",
+
+                "status": \"INACTIVE\"
+
+}, {
+	"name": \"ARKANSAS\",
+	"code": \"AR\",
+	"url": \"ar\",
+     "token": \"\",
+      "status": \"INACTIVE\"
+
+}, {
+	"name": \"CALIFORNIA\",
+	"code": \"CA\",
+	"url": \"ca\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"COLORADO\",
+	"code": \"CO\",
+	"url": \"co\",
+    "token": \"\",
+     "status": \"INACTIVE\"
+
+}, {
+	"name": \"CONNECTICUT\",
+	"code": \"CT\",
+	"url": \"ct\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"DELAWARE\",
+	"code": \"DE\",
+	"url": \"de\",
+                "token": \"\",
+
+        "status": \"INACTIVE\"
+
+}, {
+	"name": \"FLORIDA\",
+	"code": \"FL\",
+	"url": \"fl\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+        }, {
+	"name": \"GEORGIA\",
+	"code": \"GA\",
+	"url": \"ga\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"HAWAII\",
+	"code": \"HI\",
+	"url": \"hi\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"IDAHO\",
+	"code": \"ID\",
+	"url": \"id\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"ILLINOIS\",
+	"code": \"IL\",
+	"url": \"il\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"INDIANA\",
+	"code": \"IN\",
+	"url": \"in\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"IOWA\",
+	"code": \"IA\",
+	"url": \"ia\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"KANSAS\",
+	"code": \"KS\",
+	"url": \"ks\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"KENTUCKY\",
+	"code": \"KY\",
+	"url": \"ky\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"LOUISIANA\",
+	"code": \"LA\",
+	"url": \"la\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"MAINE\",
+	"code": \"ME\",
+	"url": \"me\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+        }, {
+	"name": \"MARYLAND\",
+	"code": \"MD\",
+	"url": \"md\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+        }, {
+	"name": \"MASSACHUSETTS\",
+	"code": \"MA\",
+	"url": \"ma\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"MICHIGAN\",
+	"code": \"MI\",
+	"url": \"mi\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"MINNESOTA\",
+	"code": \"MN\",
+	"url": \"mn\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"MISSISSIPPI\",
+	"code": \"MS\",
+	"url": \"ms\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"MISSOURI\",
+	"code": \"MO\",
+	"url": \"mo\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+}, {
+	"name": \"MONTANA\",
+	"code": \"MT\",
+	"url": \"mt\",
+    "token": \"57fed79cdbc0b1685b7997a602b257db4d048324f046c0017823651723127477\",
+    "status": \"ACTIVE\"
+
+}, {
+	"name": \"NEBRASKA\",
+	"code": \"NE\",
+	"url": \"ne\",
+    "token": \"\",
+   "status": \"INACTIVE\"
+
+}, {
+	"name": \"NEVADA\",
+	"code": \"NV\",
+	"url": \"nv\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"NEW HAMPSHIRE\",
+	"code": \"NH\",
+	"url": \"nh\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+        }, {
+	"name": \"NEW JERSEY\",
+	"code": \"NJ\",
+	"url": \"nj\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"NEW MEXICO\",
+	"code": \"NM\",
+	"url": \"nm\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"NEW YORK\",
+	"code": \"NY\",
+	"url": \"ny\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+}, {
+	"name": \"NORTH CAROLINA\",
+	"code": \"NC\",
+	"url": \"nc\",
+    "token": \"\",
+   "status": \"INACTIVE\"
+}, {
+	"name": \"NORTH DAKOTA\",
+	"code": \"ND\",
+	"url": \"nd\",
+    "token": \"\",
+   "status": \"INACTIVE\"
+}, {
+	"name": \"OHIO\",
+	"code": \"OH\",
+	"url": \"oh\",
+                "token": \"\",
+
+                "status": \"INACTIVE\"
+}, {
+	"name": \"OKLAHOMA\",
+	"code": \"OK\",
+	"url": \"ok\",
+                "token": \"\",
+
+                "status": \"INACTIVE\"
+}, {
+	"name": \"OREGON\",
+	"code": \"OR\",
+	"url": \"or\",
+                "token": \"\",
+
+                "status": \"INACTIVE\"
+}, {
+	"name": \"PENNSYLVANIA\",
+	"code": \"PA\",
+	"url": \"pa\",
+                "token": \"\",
+
+                "status": \"INACTIVE\"
+}, {
+	"name": \"RHODE ISLAND\",
+	"code": \"RI\",
+	"url": \"ri\",
+                "token": \"\",
+
+                "status": \"INACTIVE\"
+}, {
+	"name": \"SOUTH CAROLINA\",
+	"code": \"SC\",
+	"url": \"sc\",
+                "token": \"\",
+
+                "status": \"INACTIVE\"
+}, {
+	"name": \"SOUTH DAKOTA\",
+	"code": \"SD\",
+	"url": \"sd\",
+    "token": \"\",
+   "status": \"INACTIVE\"
+}, {
+	"name": \"TENNESSEE\",
+	"code": \"TN\",
+	"url": \"tn\",
+     "token": \"\",
+    "status": \"INACTIVE\"
+}, {
+	"name": \"TEXAS\",
+	"code": \"TX\",
+	"url": \"tx\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+}, {
+	"name": \"UTAH\",
+	"code": \"UT\",
+	"url": \"ut\",
+    "token": \"28ec58c4cfbff737687cb93655ff34d8afbe2905754f4d8189741f7f987ca724\",
+    "status": \"ACTIVE\"
+}, {
+	"name": \"VERMONT\",
+	"code": \"VT\",
+	"url": \"vt\",
+    "token": \"\",
+   "status": \"INACTIVE\"
+}, {
+	"name": \"VIRGINIA\",
+	"code": \"VA\",
+	"url": \"va\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+}, {
+	"name": \"WASHINGTON\",
+	"code": \"WA\",
+	"url": \"wa\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+}, {
+	"name": \"WEST VIRGINIA\",
+	"code": \"WV\",
+	"url": \"wv\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"WISCONSIN\",
+	"code": \"WI\",
+	"url": \"wi\",
+    "token": \"\",
+   "status": \"INACTIVE\"
+
+}, {
+	"name": \"WYOMING\",
+	"code": \"WY\",
+	"url": \"wy\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}, {
+	"name": \"WASHINGTON DC\",
+	"code": \"DC\",
+	"url": \"dc\",
+    "token": \"\",
+    "status": \"INACTIVE\"
+
+}]
+ </string>
+    <string name="SelectStateHeading2">CHOOSE STATE</string>
+    <string name="SelectStateHeading1">Select State</string>
+    <string name="redeem_company_name">company name</string>
+    <string name="redeem_company_address">company address msat wolk crick lodge 122</string>
+    <string name="redeem_phoneno">0011241565</string>
+    <string name="redeem_web_adress">www.alsdnakjd.com</string>
+    <string name="redeem_discount">Discount goes here</string>
+    <string name="redem_button">Redeem Now</string>
+    <string name="share">Share</string>
+    <string name="contact_button">Submit</string>
+    <string name="contact_name">Name</string>
+    <string name="contact_subject">Subject</string>
+    <string name="contact_message">Message</string>
+    <string name="contact_heading">Contact Us</string>
+    <string name="membership_first_header">Select Your Communities</string>
+    <string name="logging_thanks_msg">Thank you for supporting </string>
+    <string name="logging_thanks_msg1">Enjoy using the </string>
+    <string name="logging_thanks_msg2">Enjoy using Local Mascot Apps !!!</string>
+
+    <string name="market_title_msg">MARKET AGENCY TITLE</string>
+    <string name="market_desription_msg">Market Agency Description</string>
+    <string name="namee">Name</string>
+    <string name="email">Email</string>
+
+    <string name="submit">SUBMIT</string>
+    <string name="exit_msg">Please again to close Lmapps.</string>
+    <string name="font_type_msg">fonts/Raleway-Medium.ttf</string>
+    <string name="phone">Contact Number</string>
+    <string name="dob">Date Of Birth</string>
+    <string name="anniversary_date">Anniversary Date</string>
+    <string name="non_meber_access">Please purchase a membership by logging in to the LMAPPS website’s dashboard. Once you do that log out of the app and login back again.</string>
+    <string name="no_member_access_redeem">In order to redeem this offer, please purchase a membership by logging in to the LMAPPS website’s dashboard. Once you do that log out of the app and login back again to redeem the offers.</string>
+    <string name="redeem_OK">OK</string>
+    <string name="buyAMembership">BUY A MEMBERSHIP </string>
+    <string name="Message_No_DoB">No Data</string>
+    <string name="Message_Contact_number">No Data</string>
+    <string name="Message_Anniversary">No Data</string>
+    <string name="ErrorNoCouponFound">No matching coupons found! \nPlease try a different search!</string>
+    <string name="ErrorNoAdsFound">No matching advertisements found! \nPlease try a different search!</string>
+    <string name="ErrorNoSchoolFound">No matching schools found! \nPlease try a different search!</string>
+    <string name="View">[view]</string>
+    <string name="nonotification">No New Notifications</string>
+    <string name="nonews">No New News</string>
+
+
+    <string name="MessageChangeState">
+    You need to login to the app again after changing your state .
+</string>
+    <string name="YourCurrentState"><u>YOUR CURRENT STATE</u></string>
+    <string name="selectdiffstate">Select Different State</string>
+    <string name="choosestate">Choose State</string>
+    <string name="warning_message_changestate">Are You Sure You Want To Change State ?</string>
+    <string name="shareyourcode">Share Your Invite Code</string>
+    <string name="viewmembership">View Your Membership</string>
+    <string name="viewmembershiptitle">View Your Membership</string>
+    <string name="view_member_header_1">MemberShip</string>
+    <string name="view_member_header_2">Community</string>
+    <string name="view_member_header_3">Expiration Date</string>
+    <string name="view_membership_sub_category">Your memberships :</string>
+    <string name="access_token">a388307bb2a6ca51bde1996e04d186e88a381bf39bd0324622c532ddd7af0fe0</string>
+    <string name="member_key">123</string>
+    <string name="redemptionCondition_1">link</string>
+    <string name="redemptionCondition_2">instore_print</string>
+    <string name="termsOfUSe">Terms of service </string>
+    <string name="redeem_coupon">Redeem Coupon</string>
+    <string name="promo_code">Promo Code</string>
+    <string name="message">Message</string>
+    <string name="storeKey"></string>
+    <string name="no_business_category">
+There are no businesses in this category right now.Please try again later.    </string>
+    <string name="button_no_business_category">OK</string>
+    <string name="settingscreenHeading">Settings</string>
+    <string name="settingDistanceLabel">Set the distance for the offers from your current location. App will search offers based on the distance set in this setting. Default distance is 100miles.</string>
+    <string name="settingZipCodelabel">Set the default zipcode for the app to search offers. App will search offers based on the value of the zipcode within the distance radius selected in the above setting.
+If Zipcode is not selected the App will use your current location to find the offers</string>
+    <string name="descriptionAppSetting">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet purus vitae urna finibus iaculis et vitae felis.</string>
+    <string name="searchDistance">Distance</string>
+    <string name="orText">OR</string>
+    <string name="enterPostalCode">Enter PostalCode</string>
+    <string name="submit_btn">Submit</string>
+    <string name="settingSuccess">Saved Successfully.</string>
+    <string name="appRequireGps">This App Require Your GPS Location ?</string>
+    <string name="searchErrormessage">The field cannot be empty. Please enter a value.
+</string>
+    <string name="syncdata">Sync Data with Website</string>
+    <string name="syncsuccess">Data Synced Successfully.</string>
+    <string name="offer_key">14533941,14532550,14532546</string>
+    <string name="favoriteLabel">Favorite</string>
+
+    <string name="menu_item_1">Home</string>
+    <string name="menu_item_2">SHARE YOUR LM Apps ID</string><!--INVITE FRIENDS-->
+    <string name="menu_item_3">Notifications</string>
+    <string name="menu_item_4">View Favorite Coupons</string>
+    <string name="menu_item_5">View Businesses</string>
+    <string name="menu_item_13">View Exclusive Businesses</string>
+    <!--<string name="menu_item_14">View Offers</string>-->
+    <string name="menu_item_14">Search Offers</string>
+
+    <string name="menu_item_6">View Categories</string>
+    <string name="menu_item_7">Communities</string>
+    <string name="menu_item_8">Profile</string>
+    <string name="menu_item_9">My State</string>
+    <string name="menu_item_10">Settings</string>
+    <string name="menu_item_11">Change Password</string>
+    <string name="menu_item_12">Logout</string>
+    <!--Key Word-->
+
+    <string name="key_item_1">home</string>
+    <string name="key_item_2">lmapps_id</string><!--INVITE FRIENDS-->
+    <string name="key_item_3">notification</string>
+    <string name="key_item_4">favorites</string>
+    <string name="key_item_5">business</string>
+    <string name="key_item_13">exclusive_offer</string>
+    <string name="key_item_14">all_offer</string>
+
+    <string name="key_item_6">View Categories</string>
+    <string name="key_item_7">community</string>
+    <string name="key_item_8">profile</string>
+    <string name="key_item_9">state</string>
+    <string name="key_item_10">setting</string>
+    <string name="key_item_11">password</string>
+    <string name="key_item_12">logout</string>
+    <string name="share_lmapps_id_message_2">
+    The more people that use your LM
+Apps ID when purchasing a
+membership means MORE MONEY
+for your team.
+Remember, Local Mascot Apps can be
+used all over the entire state, so
+don’t only share your LM Apps ID
+with local people, share it all over the
+state!!!</string>
+    <string name="shared_class_header">Share Your LM Apps ID</string>
+    <string name="shared_class_about">
+        *Use any of the links above to share
+a message about your fund-raiser.<br />
+
+*Don’t forget to include your LM
+Apps ID so it can be entered when
+they purchase a membership.
+        <br />
+
+*The more memberships sold using
+your LM Apps ID means more money
+for your team!!!!
+        <br />
+    </string>
+    <string name="slowinternetmessage">
+        Slow Internet Connection ! Please Try Again.
+    </string>
+    <string name="favorite_dropdown_item_1">Select Offer</string>
+    <string name="favorite_dropdown_item_2">Offers</string>
+    <string name="favorite_dropdown_item_3">Exclusive Offers</string>
+    <string name="no_faovrite_msg">Sorry you have not added any favorites !</string>
+    <string name="exclusive_business">Exclusive Business</string>
+    <string name="view_Exclusive_offer">View Exclusive Offers</string>
+    <string name="view_general_offer">View General Offers</string>
+    <string name="view_favorite">View Favorites</string>
+    <string name="view_general_favorite">View General Favorites</string>
+
+    <string name="earnstext">Earn More Money</string>
+    <string name="redeem_limit">Redeem Limit</string>
+    <!--New App Setting value-->
+    <string name="appSettingValue_1">This app searches for offers based on the default distance of 100 miles from your location. You may adjust the distance below.
+</string>
+    <string name="appSettingValue_2">Set the default zip code for the app to search offers below. If zip code is not selected the app will use your current location to find offers.</string>
+    //Testing Design Value
+    <string name="textTitle"></string>
+    <string name="textCategoryDesc"></string>
+    <string name="textCategoryHeader">Category</string>
+    <string name="textTitleDesc">
+</string>
+    <string name="textDiscount">Discount</string>
+    <string name="textDiscountVal"></string>
+    <string name="textDiscountTermsOfService">Terms of service</string>
+    <string name="textRedeemLimit">Redeem Limit</string>
+    <string name="textRedeemLimitVal"></string>
+    <string name="textFavorite">Favorite</string>
+
+    <!--New Changes Values-->
+    <string name="view_exclusive_favorites">View %%Mascot%% Apps Favorites</string><!--View Exclusive %%Mascot%% Apps Favorites-->
+    <string name="defaultMascotValue">LMAPPS</string>
+    <string name="back_to_general_favorite">Back to General Favorites</string>
+    <string name="no_added_favorites">Sorry, you have not add any favorites under the %%Mascot%% Favorite Category.</string><!--Sorry, you have not add any favorites under the Exclusive %%Mascot%% Favorite Category.-->
+    <string name="exclusive_offer">View %%Mascot%% Discounts</string><!--View Exclusive %%Mascot%% Discounts-->
+    <string name="view_business_categories">View %%Mascot%% Categories</string><!--View Exclusive %%Mascot%% Categories-->
+    <string name="recommendABusiness">Recommend a Local Business</string>
+    <string name="setting_save">SAVE</string>
+    <string name="messageForCorrectDetail">Please enter correct username and password.</string>
+<string name="messageInviteCopied">Invite Code Copied</string>
+
+    <string name="sessionExpiredMessage">Your Session Has Expired. Please Login Again.</string>
+</resources>

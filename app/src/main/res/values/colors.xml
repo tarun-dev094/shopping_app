@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="light_grey">#9fa36e </color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+    <color name="sky_blue">#2ab1ee</color>
+    <color name="form_bg_dollar_color">#d0cbb4</color>
+    <color name="form_bg_dollar_color_trans">#80ffffff</color>
+    <color name="text_color">#5f605b</color>
+    <color name="logo_bg_color">#2c2c2e</color>
+    <color name="button">#5f605a</color>
+    <color name="border">#b6b6b6</color>
+    <color name="blue">#2a78ac</color>
+    <color name="grey">#EBEBEB</color>
+    <color name="priceColor">#DA4336</color>
+    <color name="lightblack">#9b9794</color>
+    <color name="menu_no_nmember">#5C5C5C</color>
+    <color name="UnreadNotification">#eaf1f7</color>
+    <color name="touchdropdown">#A9A9A9</color>
+    <color name="touchdropdowmblue">#fff</color>
+    <color name="view_member_header_color">#000000</color>
+    <color name="view_expriy_member_highlight">#FB0000</color>
+    <color name="message_ok">#1D3075</color>
+    <color name="terms_conditionicon">#1E3681</color>
+    <color name ="favorite_dropdown_color">#006CB2</color>
+    <color name="setting_selector">#387cf7</color>
+<!--#C1C1C1-->
+</resources>
